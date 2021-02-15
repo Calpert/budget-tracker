@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../Desktop/Solved"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
